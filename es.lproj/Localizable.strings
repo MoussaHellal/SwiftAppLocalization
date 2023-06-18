@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  SwiftAppLocalization
+
+  Created by Moussa on 18/6/2023.
+  
+*/
+
+"hello" = "Hola";
